@@ -1,0 +1,17 @@
+Package: sisissir
+Type: Package
+Title: homework
+Version: 1.0
+Date: 2020-12-13
+Author: XuZiling
+Maintainer: XuZiling <xuziling@mail.ustc.edu.cn>
+Description: The R package contains several functions related to the SI model,SIS model, and SIR model.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.5), deSolve
+LinkingTo: Rcpp
+RoxygenNote: 7.1.1
+Encoding: UTF-8
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+URL: http://github.com/XuZiling98/sisissir
+BugReports: http://github.com/XuZiling98/sisissir/issues
